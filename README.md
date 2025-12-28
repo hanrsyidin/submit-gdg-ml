@@ -3,6 +3,8 @@
 ## 📌 Deskripsi Proyek
 Proyek ini adalah sebuah dashboard interaktif untuk menganalisis performa penjualan dan perilaku pelanggan pada e-commerce **Olist**. Dashboard ini dibuat menggunakan **Streamlit** dan menyajikan visualisasi data yang mendalam mengenai tren penjualan, performa produk, serta segmentasi pelanggan menggunakan analisis RFM (Recency, Frequency, Monetary).
 
+Proyek ini berfokus pada Analisis Data & Dashboard (Business Intelligence), bukan berfokus pada Machine Learning (Predictive Model), walaupun dari code yang disubmit oleh community ada yang membuat model NLP dan Sales Forecasting. Namun kedua ranah tersebut masih saya pelajari dan tidak ingin mengacau pada submission ini. Alasan saya memilih Analisis Data & Dashboard (Business Intelligence) karena setidaknya *dalam hierarki kebutuhan data di perusahaan nyata, mengetahui apa yang terjadi (Descriptive) jauh lebih prioritas daripada menebak apa yang akan terjadi (Predictive).*
+
 ## 📂 Dataset
 Dataset yang digunakan dalam proyek ini adalah **Brazilian E-Commerce Public Dataset by Olist**.
 File dataset disimpan dalam folder `data/` yang mencakup:
