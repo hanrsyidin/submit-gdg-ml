@@ -52,7 +52,9 @@ Berikut adalah beberapa temuan utama dari analisis data:
     - Hal ini mengindikasikan bahwa Olist perlu meningkatkan strategi retensi pelanggan untuk mendorong loyalitas.
 
 ## 📸 Tampilan Dashboard
-*(Tambahkan screenshot dashboard di sini jika tersedia)*
+![Dashboard UI](./screenshoot1.png)
+![Dashboard UI](./screenshoot2.png)
+![Dashboard UI](./screenshoot3.png)
 
 ---
 **Copyright © 2025 Farhan**
